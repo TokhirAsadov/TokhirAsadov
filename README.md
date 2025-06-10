@@ -5,7 +5,6 @@
 
 <!-- Venom Capsule (Static Gradient) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Java%20Software%20Engireer%20|%20Backend%20Developer%20|%20Full%20Stack%20Web%20Developer%20 &fontColor=ffffff&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Java%20Software%20Engireer%20|%20Backend%20Developer%20💡&fontColor=ffffff&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
 </div>
 
